@@ -1,5 +1,7 @@
 # Repositorio de Recursos del Libro "El Libro de la Arquitectura Empresarial"
 
+Edicion en Español
+
 Este repositorio Git contendrá recursos relacionados con el libro **"El Libro de la Arquitectura Empresarial"**. Inicialmente, se incluyen documentos guía para la creación de documentos del **ADM de TOGAF** en formato Markdown.
 
 ## Contenido Inicial
